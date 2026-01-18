@@ -207,8 +207,8 @@ var config = {
             description: `
         <p>
             Los más de 20 millones de visitantes inciden directamente en las vidas de los 1,73 habitantes de Barcelona. El desequilibrio entre población residente y afluencia turística convierte el turismo en uno de los principales retos de la ciudad. Tal como muestra el gráfico, la presión no se distribuye de manera homogénea: zonas como La Rambla y Passeig de Gràcia concentran una parte significativa de los alojamientos hoteleros y de los flujos de visitantes. Esta concentración intensifica el uso del espacio público, tensiona los servicios urbanos y alimenta el rechazo social a la masificación turística.
-Ante este escenario, el Ayuntamiento ha desplegado distintas actuaciones en los EGA para mitigar el impacto del turismo en la vida cotidiana. Entre ellas destacan el refuerzo operativo de la Guardia Urbana y de los servicios de limpieza, la ampliación de la red de agentes cívicos, los programas de apoyo al comercio de proximidad, con subvenciones específicas para los EGA y campañas de civismo dirigidas a los visitantes.
-Este reportaje se centra exclusivamente en el impacto de los hoteles y excluye los pisos turísticos, cuya proliferación genera un malestar añadido al incidir directamente en el acceso a la vivienda para la población local.
+            Ante este escenario, el Ayuntamiento ha desplegado distintas actuaciones en los EGA para mitigar el impacto del turismo en la vida cotidiana. Entre ellas destacan el refuerzo de la Guardia Urbana y de los servicios de limpieza, la ampliación de la red de agentes cívicos, los programas de apoyo al comercio de proximidad, con subvenciones específicas para los EGA, y campañas de civismo dirigidas a los visitantes.
+            Este reportaje se centra exclusivamente en el impacto de los hoteles y excluye los pisos turísticos, cuya proliferación genera un malestar añadido al incidir directamente en el acceso a la vivienda para la población local.
 
         </p>
         <strong>Número y porcentaje de hoteles en cada EGA turístico de Barcelona</strong>
